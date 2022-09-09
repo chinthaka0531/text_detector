@@ -3,6 +3,7 @@
 - Here we have used YOLO V7 for detect text regions for a given image.
 - After detecting text regions we are feeding cropped bounding boxes to tesseract OCR.
 - You can find the full model with the flask app here.
+- You can run a test on [Colab notebook](https://colab.research.google.com/drive/15uo2WyD9my0nQkTDvjuqh6xU7-Fw2T0K?usp=sharing) 
 
 ### Installation
 
