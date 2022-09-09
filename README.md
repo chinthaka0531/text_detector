@@ -4,6 +4,7 @@
 - After detecting text regions we are feeding cropped bounding boxes to tesseract OCR.
 - You can find the full model with the flask app here.
 - You can run a test on [Colab notebook](https://colab.research.google.com/drive/15uo2WyD9my0nQkTDvjuqh6xU7-Fw2T0K?usp=sharing) 
+- Training notebook can be found from this (link)[https://colab.research.google.com/drive/1LgQJqJkG-DJ_dC6LYYCAMkEcnl3cxD4_?usp=sharing]
 
 ### Installation
 
